@@ -6,9 +6,9 @@ import BookDetail from "../containers/book-detail";
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <div  >
       	<BookList/>
-      	<BookDetail/>
+      	<BookDetail />
       </div>
     );
   }
